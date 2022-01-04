@@ -15,6 +15,7 @@
 		A21FAF5727836D6800CF2EC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A21FAF5527836D6800CF2EC0 /* LaunchScreen.storyboard */; };
 		A2EFB42B2784608800744BB9 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2EFB42A2784608800744BB9 /* Person.swift */; };
 		A2EFB42D2784657A00744BB9 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2EFB42C2784657A00744BB9 /* Animal.swift */; };
+		A2EFB43127846BB900744BB9 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2EFB43027846BB900744BB9 /* Car.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A21FAF5827836D6800CF2EC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A2EFB42A2784608800744BB9 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		A2EFB42C2784657A00744BB9 /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
+		A2EFB43027846BB900744BB9 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				A21FAF4C27836D6700CF2EC0 /* SceneDelegate.swift */,
 				A2EFB42A2784608800744BB9 /* Person.swift */,
 				A2EFB42C2784657A00744BB9 /* Animal.swift */,
+				A2EFB43027846BB900744BB9 /* Car.swift */,
 				A21FAF4E27836D6700CF2EC0 /* ViewController.swift */,
 				A21FAF5027836D6700CF2EC0 /* Main.storyboard */,
 				A21FAF5327836D6800CF2EC0 /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 			files = (
 				A21FAF4F27836D6700CF2EC0 /* ViewController.swift in Sources */,
 				A21FAF4B27836D6700CF2EC0 /* AppDelegate.swift in Sources */,
+				A2EFB43127846BB900744BB9 /* Car.swift in Sources */,
 				A2EFB42B2784608800744BB9 /* Person.swift in Sources */,
 				A21FAF4D27836D6700CF2EC0 /* SceneDelegate.swift in Sources */,
 				A2EFB42D2784657A00744BB9 /* Animal.swift in Sources */,
