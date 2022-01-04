@@ -23,6 +23,15 @@ class ViewController: UIViewController {
         
         let thirdPerson = firstPerson.clone()
         print("The same memory? \(firstPerson === thirdPerson)")
+        
+        // the second method to make a deep copy
+        // 4
+        let firstAnimal = Animal(species: "tiger")
+        let secondAnimal = firstAnimal
+        print("\nThe same memory? \(firstAnimal === secondAnimal)")
+        
+        let thirdAnimal = firstAnimal.copy()
+        print("The same memory? \(firstAnimal === thirdAnimal)")
     }
 }
 
